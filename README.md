@@ -44,7 +44,7 @@ To identify root causes of revenue leakage across hotel properties in Mumbai, De
 
 - Python (Pandas, NumPy, Seaborn, Plotly, Matplotlib)
 - Jupyter Notebooks
-- Power BI / Tableau (for final dashboards)
+- Power BI (for final dashboards)
 - Git & GitHub (version control)
 
 ---
